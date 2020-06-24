@@ -1,1 +1,1 @@
-# Microsoft.Terminal-setting
+# Microsoft.Terminal setting
